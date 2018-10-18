@@ -1,0 +1,1 @@
+!function(t){t(document).ready(function(){t(".bulkactions").append('<button type="button" class="button button-primary hb-update-ordering">Update</button>'),t(document).on("click",".hb-update-ordering",function(){t(this.form).append('<input type="hidden" name="action" value="hb-update-taxonomy" />').submit()})})}(jQuery);

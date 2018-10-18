@@ -1,0 +1,3716 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-25 13:36+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: wp-hotel-booking/includes/class-wphb-ajax.php:84
+msgid "Cart ID is invalid."
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-ajax.php:220
+msgid "Coupon code applied"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-ajax.php:223
+msgid "Coupon does not exist!"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-ajax.php:234
+msgid "Coupon code removed"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-ajax.php:274
+msgid "Room ID is not exists."
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-ajax.php:288
+msgid "Can not select zero room."
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-ajax.php:298
+msgid "Checkin date, checkout date is invalid."
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-ajax.php:320
+msgid "Added successfully."
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-ajax.php:340
+msgid "Room selected. Please View Cart to change order"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-ajax.php:356
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/class-wphb-extra-cart.php:249
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/classes/class-hb-extra-cart.php:230
+msgid "Cart item is not exists."
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-ajax.php:424
+#: wp-hotel-booking/includes/wphb-core-functions.php:52
+msgid "Room not found."
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-ajax.php:431
+msgid "Please select check in date and checkout date."
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-ajax.php:483
+msgid "Edit order item"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-ajax.php:547
+msgid "Can not add item with zero quantity."
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-ajax.php:561
+#: wp-hotel-booking/includes/class-wphb-ajax.php:568
+msgid "Check in date is invalid"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-ajax.php:738
+msgid "Room is not exists."
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-ajax.php:746
+msgid "Date is not exists."
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-checkout.php:63
+#: wp-hotel-booking/includes/booking/wphb-booking-functions.php:72
+#: wp-hotel-booking/includes/cart/class-wphb-cart.php:642
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/templates/shortcodes/mini_cart_layout.php:76
+#: wp-hotel-booking/includes/shortcodes/class-wphb-shortcode-hotel-booking-mini-cart.php:44
+msgid "Your cart is empty."
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-checkout.php:65
+#, php-format
+msgid "Sorry, your session has expired. <a href=\"%s\">Return to homepage</a>"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-checkout.php:99
+msgid "You have to Login to process checkout."
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-checkout.php:106
+msgid "The payment method is not available"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-checkout.php:130
+msgid "can not create booking"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-comments.php:120
+#: wp-hotel-booking/templates/single-room-reviews.php:34
+msgid "Reviews"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-comments.php:128
+msgid "Rating Room"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-comments.php:139
+#: wp-hotel-booking/includes/class-wphb-post-types.php:439
+#: wp-hotel-booking/templates/loop/rating.php:28
+#: wp-hotel-booking/templates/single-room/review.php:32
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-comments.php:147
+msgid "No rating"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-gdpr.php:36
+#: wp-hotel-booking/includes/class-wphb-gdpr.php:45
+msgid "WPHB Booking"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-gdpr.php:91
+#: wp-hotel-booking/templates/account/bookings.php:36
+msgid "ID"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-gdpr.php:93
+msgid "Created Date"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-gdpr.php:97
+#: wp-hotel-booking/templates/checkout/customer.php:22
+msgid "Customer Details"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-gdpr.php:100
+msgid "Items"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-gdpr.php:102
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:278
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-items.php:46
+#: wp-hotel-booking/templates/account/bookings.php:38
+#: wp-hotel-booking/templates/checkout/thank-you.php:56
+#: wp-hotel-booking/templates/emails/booking-details.php:51
+#: wp-hotel-booking/templates/search/booking-room-details.php:41
+msgid "Total"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-gdpr.php:106
+#: wp-hotel-booking/templates/checkout/payment-method.php:21
+msgid "Payment Method"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-gdpr.php:110
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:280
+#: wp-hotel-booking/templates/account/bookings.php:39
+msgid "Status"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-gdpr.php:117
+msgid "Hotel Booking"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-install.php:145
+msgctxt "Page Slug"
+msgid "hotel-rooms"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-install.php:146
+msgctxt "Page Title"
+msgid "Hotel Rooms"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-install.php:153
+msgctxt "Page Slug"
+msgid "hotel-cart"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-install.php:154
+msgctxt "Page Title"
+msgid "Hotel Cart"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-install.php:161
+msgctxt "Page Slug"
+msgid "hotel-checkout"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-install.php:162
+msgctxt "Page Title"
+msgid "Hotel Checkout"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-install.php:169
+msgctxt "Page Slug"
+msgid "hotel-search"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-install.php:170
+msgctxt "Page Title"
+msgid "Hotel Booking Search"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-install.php:177
+msgctxt "Page Slug"
+msgid "hotel-account"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-install.php:178
+msgctxt "Page Title"
+msgid "Hotel Account"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-install.php:185
+msgctxt "Page Slug"
+msgid "hotel-term-condition"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-install.php:186
+msgctxt "Page Title"
+msgid "Terms and Conditions "
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-install.php:193
+msgctxt "Page Slug"
+msgid "hotel-thank-you"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-install.php:194
+msgctxt "Page Title"
+msgid "Hotel Thank You"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:90
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/class-wphb-extra-post-type.php:118
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/class-wphb-extra-post-type.php:213
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/classes/class-hb-extra-post-type.php:105
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/classes/class-hb-extra-post-type.php:195
+msgid "Type"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:91
+msgid "Validate From"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:92
+msgid "Validate To"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:93
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:174
+msgid "Minimum spend"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:94
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:182
+msgid "Maximum spend"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:95
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:190
+msgid "Usage limit per coupon"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:96
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:197
+msgid "Used"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:111
+msgid "Fixed cart"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:114
+msgid "Percent cart"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:389
+#: wp-hotel-booking/includes/class-wphb-post-types.php:671
+msgid "Room Type"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:390
+msgid "Max Children"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:391
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/class-wphb-extra-post-type.php:116
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/class-wphb-extra-post-type.php:197
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/admin/views/extra.php:44
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/admin/views/extra.php:69
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/admin/views/extra.php:102
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/classes/class-hb-extra-post-type.php:103
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/classes/class-hb-extra-post-type.php:179
+#: wp-hotel-booking/templates/emails/booking-details.php:25
+#: wp-hotel-booking/templates/loop/price.php:32
+msgid "Price"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:392
+msgid "Average Rating"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:431
+msgid "View Price"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:507
+msgid "Gallery"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:509
+#: wp-hotel-booking/templates/cart/cart.php:35
+#: wp-hotel-booking/templates/checkout/checkout.php:36
+msgid "Capacity"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:511
+msgid "Ordering"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:574
+msgctxt "post type general name"
+msgid "Rooms"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:575
+msgctxt "post type singular name"
+msgid "Room"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:576
+#: wp-hotel-booking/includes/class-wphb-post-types.php:578
+msgid "Rooms"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:577
+#: wp-hotel-booking/includes/class-wphb-post-types.php:630
+msgid "Parent Item:"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:579
+msgid "View Room"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:580
+#: wp-hotel-booking/includes/class-wphb-post-types.php:581
+msgid "Add New Room"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:582
+msgid "Edit Room"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:583
+msgid "Update Room"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:584
+msgid "Search Room"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:585
+#: wp-hotel-booking/includes/shortcodes/class-wphb-shortcode-hotel-booking-rooms.php:77
+msgid "No room found"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:586
+msgid "No room found in Trash"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:610
+msgctxt "URL slug"
+msgid "rooms"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:627
+msgctxt "post type general name"
+msgid "Bookings"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:628
+msgctxt "post type singular name"
+msgid "Booking"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:629
+#: wp-hotel-booking/includes/class-wphb-post-types.php:631
+#: wp-hotel-booking/templates/account/bookings.php:31
+msgid "Bookings"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:632
+msgid "View Booking"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:633
+msgid "Add New Booking"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:634
+msgid "Add New"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:635
+msgid "Edit Booking"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:636
+msgid "Update Booking"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:637
+msgid "Search Booking"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:638
+msgid "No booking found"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:639
+msgid "No booking found in Trash"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:673
+msgctxt "taxonomy general name"
+msgid "Room Types"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:674
+msgctxt "taxonomy singular name"
+msgid "Room Type"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:675
+msgctxt "Room Types"
+msgid "Room Types"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:676
+msgid "Search Room Types"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:677
+msgid "All Room Types"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:678
+msgid "Parent Room Type"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:679
+msgid "Parent Room Type:"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:680
+msgid "Edit Room Type"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:681
+msgid "Update Room Type"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:682
+msgid "Add New Room Type"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:683
+msgid "New Room Type Name"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:688
+msgctxt "URL slug"
+msgid "room-type"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:706
+#: wp-hotel-booking/includes/class-wphb-post-types.php:709
+msgid "Room Capacity"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:708
+msgid "Room Capacities"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:710
+msgctxt "Room Capacities"
+msgid "Room Capacities"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:711
+msgid "Search Room Capacities"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:712
+msgid "All Room Capacity"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:713
+msgid "Parent Room Capacity"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:714
+msgid "Parent Room Capacity:"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:715
+msgid "Edit Room Capacity"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:716
+msgid "Update Room Capacity"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:717
+msgid "Add New Room Capacity"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:718
+msgid "New Room Type Capacity"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:723
+msgctxt "URL slug"
+msgid "room-capacity"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:744
+#: wp-hotel-booking/includes/booking/wphb-booking-functions.php:131
+msgctxt "Booking status"
+msgid "Cancelled"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:749
+#, php-format
+msgid "Cancelled <span class=\"count\">(%s)</span>"
+msgid_plural "Cancelled <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:754
+#: wp-hotel-booking/includes/booking/wphb-booking-functions.php:132
+msgctxt "Booking status"
+msgid "Pending"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:759
+#, php-format
+msgid "Pending <span class=\"count\">(%s)</span>"
+msgid_plural "Pending <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:764
+#: wp-hotel-booking/includes/booking/wphb-booking-functions.php:133
+msgctxt "Booking status"
+msgid "Processing"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:769
+#, php-format
+msgid "Processing <span class=\"count\">(%s)</span>"
+msgid_plural "Processing <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:774
+#: wp-hotel-booking/includes/booking/wphb-booking-functions.php:134
+msgctxt "Booking status"
+msgid "Completed"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-post-types.php:779
+#, php-format
+msgid "Completed <span class=\"count\">(%s)</span>"
+msgid_plural "Completed <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wp-hotel-booking/includes/class-wphb-roles.php:38
+msgid "Hotel Manager"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-roles.php:78
+msgid "Booking Editor"
+msgstr ""
+
+#: wp-hotel-booking/includes/class-wphb-settings.php:116
+msgid "Settings saved."
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-core-functions.php:65
+msgid "Check in date is not valid."
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-core-functions.php:74
+msgid "Check out date is not valid."
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-core-functions.php:122
+msgid "This room is not available."
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-core-functions.php:261
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/functions.php:139
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/wphb-extra-functions.php:177
+msgid "Trip"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-core-functions.php:262
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/functions.php:140
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/wphb-extra-functions.php:178
+msgid "Number"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:203
+msgid "---Select Room---"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:373
+#: wp-hotel-booking/includes/wphb-functions.php:632
+#: wp-hotel-booking/includes/products/class-wphb-product-room.php:181
+#: wp-hotel-booking/templates/search/loop.php:76
+msgid "Select"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:563
+msgid "Sun"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:564
+msgid "Mon"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:565
+msgid "Tue"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:566
+msgid "Wed"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:567
+msgid "Thu"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:568
+msgid "Fri"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:569
+msgid "Sat"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:605
+msgid "Mr."
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:606
+msgid "Ms."
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:607
+msgid "Mrs."
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:608
+msgid "Miss."
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:609
+msgid "Dr."
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:610
+msgid "Prof."
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:702
+msgid "Your email address is invalid."
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:703
+msgid "Please select your payment method."
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:704
+msgid "Please accept our Terms and Conditions."
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:705
+msgid "Please select at least one the room."
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:706
+msgid "Please select your title."
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:707
+msgid "Please enter your first name."
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:708
+msgid "Please enter your last name."
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:709
+msgid "Please enter your address."
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:710
+msgid "Please enter your city name."
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:711
+msgid "Please enter your state."
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:712
+msgid "Please enter your postal code."
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:713
+msgid "Please select your country."
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:714
+msgid "Please enter your phone number."
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:715
+msgid "Your email is invalid."
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:716
+msgid ""
+"Your email does not match with existing email! Ok to create a new customer "
+"information."
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:717
+msgid "Please select check in date."
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:718
+msgid "Please select check out date."
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:719
+msgid "Check in date must be greater than the current."
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:720
+msgid "Check out date must be greater than the check in."
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:721
+msgid "Please enter coupon code."
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:722
+msgid "Please select a rating."
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:724
+msgid "Please select room number."
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:725
+msgid "Please try again!"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:734
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/templates/shortcodes/mini_cart_layout.php:71
+#: wp-hotel-booking/templates/cart/mini_cart.php:36
+#: wp-hotel-booking/templates/cart/mini_cart_layout.php:41
+msgid "View Cart"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:797
+msgid "January"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:798
+msgid "February"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:799
+msgid "March"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:800
+msgid "April"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:801
+msgid "May"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:802
+msgid "June"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:803
+msgid "July"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:804
+msgid "August"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:805
+msgid "September"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:806
+msgid "October"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:807
+msgid "November"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:808
+msgid "December"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:817
+msgid "Jan"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:818
+msgid "Feb"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:819
+msgid "Mar"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:820
+msgid "Apr"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:821
+msgid "Maj"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:822
+msgid "Jun"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:823
+msgid "Jul"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:824
+msgid "Aug"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:825
+msgid "Sep"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:826
+msgid "Oct"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:827
+msgid "Nov"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:828
+msgid "Dec"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:837
+msgid "Sunday"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:838
+msgid "Monday"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:839
+msgid "Tuesday"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:840
+msgid "Wednesday"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:841
+msgid "Thursday"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:842
+msgid "Friday"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:843
+msgid "Saturday"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:858
+msgid "Su"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:859
+msgid "Mo"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:860
+msgid "Tu"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:861
+msgid "We"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:862
+msgid "Th"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:863
+msgid "Fr"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:864
+msgid "Sa"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1682
+msgid "Afghanistan"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1683
+msgid "&#197;land Islands"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1684
+msgid "Albania"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1685
+msgid "Algeria"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1686
+msgid "Andorra"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1687
+msgid "Angola"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1688
+msgid "Anguilla"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1689
+msgid "Antarctica"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1690
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1691
+msgid "Argentina"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1692
+msgid "Armenia"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1693
+msgid "Aruba"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1694
+msgid "Australia"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1695
+msgid "Austria"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1696
+msgid "Azerbaijan"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1697
+msgid "Bahamas"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1698
+msgid "Bahrain"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1699
+msgid "Bangladesh"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1700
+msgid "Barbados"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1701
+msgid "Belarus"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1702
+msgid "Belgium"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1703
+msgid "Belau"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1704
+msgid "Belize"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1705
+msgid "Benin"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1706
+msgid "Bermuda"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1707
+msgid "Bhutan"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1708
+msgid "Bolivia"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1709
+msgid "Bonaire, Saint Eustatius and Saba"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1710
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1711
+msgid "Botswana"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1712
+msgid "Bouvet Island"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1713
+msgid "Brazil"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1714
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1715
+msgid "British Virgin Islands"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1716
+msgid "Brunei"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1717
+msgid "Bulgaria"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1718
+msgid "Burkina Faso"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1719
+msgid "Burundi"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1720
+msgid "Cambodia"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1721
+msgid "Cameroon"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1722
+msgid "Canada"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1723
+msgid "Cape Verde"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1724
+msgid "Cayman Islands"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1725
+msgid "Central African Republic"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1726
+msgid "Chad"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1727
+msgid "Chile"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1728
+msgid "China"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1729
+msgid "Christmas Island"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1730
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1731
+msgid "Colombia"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1732
+msgid "Comoros"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1733
+msgid "Congo (Brazzaville)"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1734
+msgid "Congo (Kinshasa)"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1735
+msgid "Cook Islands"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1736
+msgid "Costa Rica"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1737
+msgid "Croatia"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1738
+msgid "Cuba"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1739
+msgid "Cura&Ccedil;ao"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1740
+msgid "Cyprus"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1741
+msgid "Czech Republic"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1742
+msgid "Denmark"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1743
+msgid "Djibouti"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1744
+msgid "Dominica"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1745
+msgid "Dominican Republic"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1746
+msgid "Ecuador"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1747
+msgid "Egypt"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1748
+msgid "El Salvador"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1749
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1750
+msgid "Eritrea"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1751
+msgid "Estonia"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1752
+msgid "Ethiopia"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1753
+msgid "Falkland Islands"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1754
+msgid "Faroe Islands"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1755
+msgid "Fiji"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1756
+msgid "Finland"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1757
+msgid "France"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1758
+msgid "French Guiana"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1759
+msgid "French Polynesia"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1760
+msgid "French Southern Territories"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1761
+msgid "Gabon"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1762
+msgid "Gambia"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1763
+msgid "Georgia"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1764
+msgid "Germany"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1765
+msgid "Ghana"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1766
+msgid "Gibraltar"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1767
+msgid "Greece"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1768
+msgid "Greenland"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1769
+msgid "Grenada"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1770
+msgid "Guadeloupe"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1771
+msgid "Guatemala"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1772
+msgid "Guernsey"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1773
+msgid "Guinea"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1774
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1775
+msgid "Guyana"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1776
+msgid "Haiti"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1777
+msgid "Heard Island and McDonald Islands"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1778
+msgid "Honduras"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1779
+msgid "Hong Kong"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1780
+msgid "Hungary"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1781
+msgid "Iceland"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1782
+msgid "India"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1783
+msgid "Indonesia"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1784
+msgid "Iran"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1785
+msgid "Iraq"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1786
+msgid "Republic of Ireland"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1787
+msgid "Isle of Man"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1788
+msgid "Israel"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1789
+msgid "Italy"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1790
+msgid "Ivory Coast"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1791
+msgid "Jamaica"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1792
+msgid "Japan"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1793
+msgid "Jersey"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1794
+msgid "Jordan"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1795
+msgid "Kazakhstan"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1796
+msgid "Kenya"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1797
+msgid "Kiribati"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1798
+msgid "Kuwait"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1799
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1800
+msgid "Laos"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1801
+msgid "Latvia"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1802
+msgid "Lebanon"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1803
+msgid "Lesotho"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1804
+msgid "Liberia"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1805
+msgid "Libya"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1806
+msgid "Liechtenstein"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1807
+msgid "Lithuania"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1808
+msgid "Luxembourg"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1809
+msgid "Macao S.A.R., China"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1810
+msgid "Macedonia"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1811
+msgid "Madagascar"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1812
+msgid "Malawi"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1813
+msgid "Malaysia"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1814
+msgid "Maldives"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1815
+msgid "Mali"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1816
+msgid "Malta"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1817
+msgid "Marshall Islands"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1818
+msgid "Martinique"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1819
+msgid "Mauritania"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1820
+msgid "Mauritius"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1821
+msgid "Mayotte"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1822
+msgid "Mexico"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1823
+msgid "Micronesia"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1824
+msgid "Moldova"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1825
+msgid "Monaco"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1826
+msgid "Mongolia"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1827
+msgid "Montenegro"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1828
+msgid "Montserrat"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1829
+msgid "Morocco"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1830
+msgid "Mozambique"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1831
+msgid "Myanmar"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1832
+msgid "Namibia"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1833
+msgid "Nauru"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1834
+msgid "Nepal"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1835
+msgid "Netherlands"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1836
+msgid "Netherlands Antilles"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1837
+msgid "New Caledonia"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1838
+msgid "New Zealand"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1839
+msgid "Nicaragua"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1840
+msgid "Niger"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1841
+msgid "Nigeria"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1842
+msgid "Niue"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1843
+msgid "Norfolk Island"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1844
+msgid "North Korea"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1845
+msgid "Norway"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1846
+msgid "Oman"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1847
+msgid "Pakistan"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1848
+msgid "Palestinian Territory"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1849
+msgid "Panama"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1850
+msgid "Papua New Guinea"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1851
+msgid "Paraguay"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1852
+msgid "Peru"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1853
+msgid "Philippines"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1854
+msgid "Pitcairn"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1855
+msgid "Poland"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1856
+msgid "Portugal"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1857
+msgid "Qatar"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1858
+msgid "Reunion"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1859
+msgid "Romania"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1860
+msgid "Russia"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1861
+msgid "Rwanda"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1862
+msgid "Saint Barth&eacute;lemy"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1863
+msgid "Saint Helena"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1864
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1865
+msgid "Saint Lucia"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1866
+msgid "Saint Martin (French part)"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1867
+msgid "Saint Martin (Dutch part)"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1868
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1869
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1870
+msgid "San Marino"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1871
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1872
+msgid "Saudi Arabia"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1873
+msgid "Senegal"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1874
+msgid "Serbia"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1875
+msgid "Seychelles"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1876
+msgid "Sierra Leone"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1877
+msgid "Singapore"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1878
+msgid "Slovakia"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1879
+msgid "Slovenia"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1880
+msgid "Solomon Islands"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1881
+msgid "Somalia"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1882
+msgid "South Africa"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1883
+msgid "South Georgia/Sandwich Islands"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1884
+msgid "South Korea"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1885
+msgid "South Sudan"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1886
+msgid "Spain"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1887
+msgid "Sri Lanka"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1888
+msgid "Sudan"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1889
+msgid "Suriname"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1890
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1891
+msgid "Swaziland"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1892
+msgid "Sweden"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1893
+msgid "Switzerland"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1894
+msgid "Syria"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1895
+msgid "Taiwan"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1896
+msgid "Tajikistan"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1897
+msgid "Tanzania"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1898
+msgid "Thailand"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1899
+msgid "Timor-Leste"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1900
+msgid "Togo"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1901
+msgid "Tokelau"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1902
+msgid "Tonga"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1903
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1904
+msgid "Tunisia"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1905
+msgid "Turkey"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1906
+msgid "Turkmenistan"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1907
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1908
+msgid "Tuvalu"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1909
+msgid "Uganda"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1910
+msgid "Ukraine"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1911
+msgid "United Arab Emirates"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1912
+msgid "United Kingdom (UK)"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1913
+msgid "United States (US)"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1914
+msgid "Uruguay"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1915
+msgid "Uzbekistan"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1916
+msgid "Vanuatu"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1917
+msgid "Vatican"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1918
+msgid "Venezuela"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1919
+msgid "Vietnam"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1920
+msgid "Wallis and Futuna"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1921
+msgid "Western Sahara"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1922
+msgid "Western Samoa"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1923
+msgid "Yemen"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1924
+msgid "Zambia"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:1925
+msgid "Zimbabwe"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:2045
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-functions.php:2234
+#: wp-hotel-booking/includes/admin/class-wphb-admin-settings.php:290
+msgid "---Select page---"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-template-functions.php:204
+#, php-format
+msgid "Search Results: &ldquo;%s&rdquo;"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-template-functions.php:207
+#, php-format
+msgid "&nbsp;&ndash; Page %s"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-template-functions.php:595
+#: wp-hotel-booking/includes/admin/class-wphb-admin-menu.php:48
+#: wp-hotel-booking/includes/admin/class-wphb-admin-menu.php:49
+#: wp-hotel-booking/includes/admin/views/pricing-table.php:36
+msgid "Pricing Plans"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-template-functions.php:609
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-room-pricing.php:28
+#: wp-hotel-booking/includes/admin/views/pricing-table.php:60
+#: wp-hotel-booking/includes/admin/views/pricing-table.php:127
+msgid "Edit"
+msgstr ""
+
+#: wp-hotel-booking/includes/wphb-webhooks.php:87
+msgid "WP Hotel Booking webhook process Complete"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/class-wphb-admin-menu.php:36
+#: wp-hotel-booking/includes/admin/class-wphb-admin-menu.php:37
+msgid "WP Hotel Booking"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/class-wphb-admin-menu.php:56
+#: wp-hotel-booking/includes/admin/class-wphb-admin-menu.php:57
+msgid "Settings"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/class-wphb-admin-menu.php:70
+#: wp-hotel-booking/includes/admin/class-wphb-admin-menu.php:71
+msgid "Tools"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/class-wphb-admin-settings.php:349
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-actions.php:28
+#: wp-hotel-booking/includes/admin/views/pricing-table.php:168
+msgid "Update"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:46
+msgid "Are you sure you want to remove this pricing table?"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:47
+msgid "Select start date for plan"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:48
+msgid "Select end date for plan"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:49
+msgid "Please select date range and filter type"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:53
+msgid "Enter user login."
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:54
+msgid "Enter room name."
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:55
+msgid "Enter coupon code."
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:56
+msgid "Search booking by username, user email"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:68
+msgid "Room Settings"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:77
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-items-template-js.php:57
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-items-template-js.php:94
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-items-template-js.php:167
+#: wp-hotel-booking/templates/cart/cart.php:36
+#: wp-hotel-booking/templates/checkout/checkout.php:37
+msgid "Quantity"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:80
+msgid "The number of rooms"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:86
+msgid "Number of adults"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:99
+msgid "Max children per room"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:107
+#: wp-hotel-booking/templates/checkout/addition-information.php:19
+#: wp-hotel-booking/templates/emails/booking-details.php:65
+#: wp-hotel-booking/templates/single-room/details.php:31
+msgid "Additional Information"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:118
+msgid "Coupon Settings"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:128
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/admin/views/extra.php:40
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/admin/views/extra.php:65
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/admin/views/extra.php:98
+#: wp-hotel-booking/templates/single-room/details.php:26
+msgid "Description"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:134
+msgid "Discount type"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:138
+msgid "Cart discount"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:139
+#, php-format
+msgid "Cart % discount"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:144
+msgid "Discount value"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:152
+msgid "Validate from"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:163
+msgid "Validate until"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:176
+msgid ""
+"This field allows you to set the minimum subtotal needed to use the coupon."
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:184
+msgid ""
+"This field allows you to set the maximum subtotal allowed when using the "
+"coupon."
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:192
+msgid "How many times this coupon can be used before it is void."
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:206
+msgid "Gallery Settings"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:274
+msgid "Customer"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:275
+msgid "Date"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:276
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-items-template-js.php:48
+#: wp-hotel-booking/templates/emails/booking-details.php:22
+msgid "Check in"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:277
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-items-template-js.php:50
+#: wp-hotel-booking/templates/checkout/checkout.php:149
+#: wp-hotel-booking/templates/emails/booking-details.php:23
+msgid "Check out"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:279
+msgid "Booking Order"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:320
+#, php-format
+msgid "<br />(<small>%s</small>)"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:332
+#, php-format
+msgid "<br />(<small class=\"hb_advance_payment\">Charged %s = %s</small>)"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:420
+msgid "Booking date"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:421
+msgid "Check-in date"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:422
+msgid "Check-out date"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:427
+#: wp-hotel-booking/includes/admin/views/pricing-table.php:110
+#: wp-hotel-booking/includes/admin/views/pricing-table.php:182
+msgid "Date Range"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:429
+msgid "From"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:432
+msgid "To"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:435
+msgid "---Filter By---"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:486
+#: wp-hotel-booking/includes/admin/wphb-admin-functions.php:514
+#: wp-hotel-booking/includes/admin/metaboxes/views/fields/gallery.php:22
+msgid "Remove this image"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/class-wphb-admin-metabox-booking-actions.php:33
+msgid "Booking Actions"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/class-wphb-admin-metabox-booking-details.php:33
+msgid "Booking Details"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/class-wphb-admin-metabox-booking-items.php:33
+#: wp-hotel-booking/templates/checkout/thank-you.php:47
+msgid "Booking Items"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/class-wphb-admin-metabox-room-price.php:33
+msgid "Regular Price"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-actions.php:23
+msgid "Move to Trash"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-actions.php:28
+msgid "Save Book"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-details.php:29
+#, php-format
+msgid "Book ID %s"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-details.php:31
+#, php-format
+msgid "Booked on %s"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-details.php:35
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-general.php:26
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-payments.php:89
+msgid "General"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-details.php:38
+msgid "Payment Method:"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-details.php:51
+msgid "Booking Status:"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-details.php:67
+msgid "Customer's Details"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-details.php:72
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/admin/views/extra.php:36
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/admin/views/extra.php:61
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/admin/views/extra.php:94
+#: wp-hotel-booking/templates/single-room-reviews.php:71
+msgid "Name"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-details.php:76
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-details.php:112
+#: wp-hotel-booking/templates/checkout/customer-new.php:53
+#: wp-hotel-booking/templates/checkout/customer-new.php:58
+msgid "Address"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-details.php:89
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-hotel-info.php:100
+#: wp-hotel-booking/templates/single-room-reviews.php:73
+#: wp-hotel-booking/templates/checkout/customer-existing.php:30
+#: wp-hotel-booking/templates/checkout/customer-new.php:113
+msgid "Email"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-details.php:93
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-details.php:130
+#: wp-hotel-booking/templates/checkout/customer-new.php:104
+msgid "Phone"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-details.php:106
+#: wp-hotel-booking/templates/checkout/customer-new.php:35
+#: wp-hotel-booking/templates/checkout/customer-new.php:40
+msgid "First name"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-details.php:109
+#: wp-hotel-booking/templates/checkout/customer-new.php:44
+#: wp-hotel-booking/templates/checkout/customer-new.php:49
+msgid "Last name"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-details.php:115
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-hotel-info.php:58
+#: wp-hotel-booking/templates/checkout/customer-new.php:62
+#: wp-hotel-booking/templates/checkout/customer-new.php:67
+msgid "City"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-details.php:120
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-hotel-info.php:65
+#: wp-hotel-booking/templates/checkout/customer-new.php:71
+#: wp-hotel-booking/templates/checkout/customer-new.php:76
+msgid "State"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-details.php:123
+msgid "Postl code"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-details.php:124
+#: wp-hotel-booking/templates/checkout/customer-new.php:118
+msgid "Email address"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-details.php:127
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-hotel-info.php:93
+#: wp-hotel-booking/templates/checkout/customer-new.php:122
+#: wp-hotel-booking/templates/checkout/customer-new.php:126
+msgid "Fax"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-details.php:135
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-hotel-info.php:72
+#: wp-hotel-booking/templates/checkout/customer-new.php:91
+#: wp-hotel-booking/templates/checkout/customer-new.php:97
+msgid "Country"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-details.php:147
+msgid "Customer's Notes"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-details.php:156
+#: wp-hotel-booking/includes/booking/wphb-booking-functions.php:87
+msgid "Empty Booking Notes"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-items-template-js.php:31
+msgid "Add new item"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-items-template-js.php:75
+msgid "Extra Packages"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-items-template-js.php:113
+msgid "Check Available"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-items-template-js.php:117
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-items-template-js.php:230
+msgid "Close"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-items-template-js.php:118
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-items-template-js.php:231
+msgid "Add"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-items-template-js.php:135
+msgid "Do you want to do this?"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-items-template-js.php:154
+#: wp-hotel-booking/includes/widgets/class-hb-widget-room-carousel.php:85
+#: wp-hotel-booking/includes/widgets/class-hb-widget-room-carousel.php:94
+msgid "No"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-items-template-js.php:155
+#: wp-hotel-booking/includes/widgets/class-hb-widget-room-carousel.php:83
+#: wp-hotel-booking/includes/widgets/class-hb-widget-room-carousel.php:91
+msgid "Yes"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-items-template-js.php:194
+msgid "Add new coupon"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-items.php:34
+#: wp-hotel-booking/templates/checkout/thank-you.php:52
+msgid "Item"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-items.php:37
+msgid "Checkin - Checkout"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-items.php:40
+#: wp-hotel-booking/templates/cart/cart.php:39
+#: wp-hotel-booking/templates/checkout/checkout.php:40
+#: wp-hotel-booking/templates/checkout/thank-you.php:54
+#: wp-hotel-booking/templates/loop/price.php:46
+#: wp-hotel-booking/templates/search/booking-room-details.php:30
+msgid "Night"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-items.php:43
+#: wp-hotel-booking/templates/checkout/thank-you.php:55
+msgid "Qty"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-items.php:49
+msgid "Actions"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-items.php:100
+msgid "Delete select item(s)"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-items.php:103
+msgid "Sync"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-items.php:109
+msgid "Add Coupon"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-items.php:115
+msgid "Remove Coupon"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-items.php:119
+msgid "Add Room Item"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-items.php:130
+#, php-format
+msgid "Coupon(<a href=\"%s\">%s</a>)"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-items.php:139
+#: wp-hotel-booking/templates/cart/cart.php:83
+#: wp-hotel-booking/templates/checkout/checkout.php:78
+#: wp-hotel-booking/templates/checkout/thank-you.php:103
+msgid "Sub Total"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-items.php:147
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-general.php:139
+#: wp-hotel-booking/templates/cart/cart.php:92
+#: wp-hotel-booking/templates/checkout/checkout.php:88
+#: wp-hotel-booking/templates/checkout/thank-you.php:109
+msgid "Tax"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-items.php:155
+#: wp-hotel-booking/templates/cart/cart.php:102
+#: wp-hotel-booking/templates/checkout/checkout.php:99
+#: wp-hotel-booking/templates/checkout/thank-you.php:115
+msgid "Grand Total"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/metaboxes/views/meta-booking-items.php:172
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-general.php:164
+#: wp-hotel-booking/templates/checkout/thank-you.php:134
+#: wp-hotel-booking/templates/emails/booking-details.php:56
+msgid "Advance Payment"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:26
+msgid "Emails"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:42
+msgid "Email Sender"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:43
+msgid "The name and email address of the sender displays in email"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:49
+msgid "From name"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:57
+msgid "From Email"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:65
+msgid "Email subject"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:66
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:67
+#: wp-hotel-booking/includes/booking/wphb-booking-hooks.php:269
+msgid "Reservation"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:80
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:219
+msgid "New Booking"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:81
+msgid ""
+"New booking emails are sent to chosen recipient(s) when a booking is "
+"received."
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:87
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:156
+#: wp-hotel-booking/includes/gateways/offline-payment/views/settings.php:32
+#: wp-hotel-booking/includes/gateways/paypal/views/settings.php:32
+msgid "Enable"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:94
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:163
+msgid "Recipient(s)"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:95
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:104
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:164
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:173
+#, php-format
+msgid "Enter recipients (comma separated) for this email. Defaults to %s."
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:103
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:172
+msgid "Subject"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:112
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:181
+msgid "Email Heading"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:113
+msgid ""
+"The main heading displays in the top of email. Default heading: New customer "
+"booking"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:121
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:190
+msgid "Email Heading Description"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:122
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:123
+#: wp-hotel-booking/includes/booking/wphb-booking-hooks.php:223
+msgid "The customer has completed the transaction"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:129
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:198
+msgid "Email Format"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:132
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:201
+msgid "Plain Text"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:133
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:202
+msgid "HTML"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:149
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:220
+msgid "Cancel Booking"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:150
+msgid ""
+"Cancel booking emails are sent to chosen recipient(s) when booking has been "
+"marked cancelled."
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:182
+msgid ""
+"The main heading displays in the top of email. Default heading: Cancelled "
+"booking"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:191
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:192
+#: wp-hotel-booking/includes/booking/wphb-booking-hooks.php:309
+#: wp-hotel-booking/templates/emails/customer-cancelled.php:21
+msgid "Booking has been marked cancelled"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-emails.php:218
+msgid "Email Options"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-general.php:36
+msgid "General Options"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-general.php:37
+msgid "General options for system."
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-general.php:42
+msgid "Rooms Page"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-general.php:47
+msgid "Search Page"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-general.php:52
+msgid "Checkout Page"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-general.php:57
+msgid "Cart Page"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-general.php:62
+msgid "Account Page"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-general.php:67
+msgid "Terms And Conditions Page"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-general.php:72
+msgid "Thank You Page"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-general.php:78
+msgid "Single Purchase"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-general.php:79
+msgid "Disable select quantity in Hotel Search page (default: one at a time)"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-general.php:85
+msgid "Custom Process"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-general.php:86
+msgid "Choose extra options after select room in search page"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-general.php:92
+msgid "Currency"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-general.php:99
+msgid "Currency Position"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-general.php:101
+msgid "Left ( $69.99 )"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-general.php:102
+msgid "Right ( 69.99$ )"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-general.php:103
+msgid "Left with space ( $ 69.99 )"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-general.php:104
+msgid "Right with space ( 69.99 $ )"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-general.php:111
+msgid "Thousands Separator"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-general.php:117
+msgid "Decimals Separator"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-general.php:123
+msgid "Number of decimal"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-general.php:131
+msgid "Minimum booking nights"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-general.php:147
+msgid "Price including tax"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-general.php:153
+msgid "Price display"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-general.php:155
+msgid "Min"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-general.php:156
+msgid "Max"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-general.php:157
+msgid "Min to Max"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-general.php:165
+msgid "Advance payment, eg: 50%"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-hotel-info.php:27
+msgid "Hotel Info"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-hotel-info.php:38
+msgid "Your hotel information"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-hotel-info.php:44
+msgid "Hotel Name"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-hotel-info.php:51
+msgid "Hotel Adress"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-hotel-info.php:79
+msgid "Zip / Postal Code"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-hotel-info.php:86
+#: wp-hotel-booking/templates/checkout/customer-new.php:109
+msgid "Phone Number"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-lightboxs.php:27
+msgid "Lightboxs"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-lightboxs.php:38
+msgid "Lightbox options"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-lightboxs.php:39
+msgid "General options for Lightbox system."
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-lightboxs.php:46
+msgid "Lightbox type"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-payments.php:27
+msgid "Checkout"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-payments.php:38
+msgid "Payment General Options"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-payments.php:39
+msgid "Payment General options for system."
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-payments.php:45
+msgid "Cancel Payment"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-payments.php:46
+msgid "Cancel Payment after hour(s)"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-payments.php:54
+msgid "Process"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-payments.php:55
+msgid "Allows customers to checkout without creating an account."
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-room.php:26
+#: wp-hotel-booking/templates/emails/booking-details.php:21
+msgid "Room"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-room.php:37
+msgid "Catalog Options"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-room.php:38
+msgid ""
+"Catalog settings display column number and image size used in room list "
+"( archive page, related room )."
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-room.php:45
+msgid "Number of column display catalog page"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-room.php:52
+msgid "Number of post display in page"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-room.php:66
+msgid "Catalog images size"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-room.php:71
+msgid "Display rating"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-room.php:84
+msgid "Room Options"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-room.php:85
+msgid ""
+"Room settings display column number and image size used in gallery single "
+"page"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-room.php:99
+msgid "Room images size gallery"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-room.php:113
+msgid "Room images thumbnail"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-room.php:118
+msgid "Display pricing plans"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-room.php:125
+msgid "Enable ratings on reviews"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-room.php:135
+msgid "Ratings are required to leave a review"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/settings/class-wphb-admin-setting-room.php:143
+msgid "Enable gallery lightbox"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/tools/class-wphb-tool-override-templates.php:38
+msgid "Template"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/tools/class-wphb-tool-override-templates.php:61
+#, php-format
+msgid "Override Templates (%s)"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/tools/class-wphb-tool-override-templates.php:69
+msgid "File"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/tools/class-wphb-tool-override-templates.php:72
+#, php-format
+msgid "All (%d)"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/tools/class-wphb-tool-override-templates.php:74
+#, php-format
+msgid "Up to date (%d)"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/tools/class-wphb-tool-override-templates.php:76
+#, php-format
+msgid "Outdated (%d)"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/tools/class-wphb-tool-override-templates.php:78
+#, php-format
+msgid "Undefined (%d)"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/tools/class-wphb-tool-override-templates.php:82
+msgid "Template version"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/tools/class-wphb-tool-override-templates.php:84
+msgid "Plugin version"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/tools/class-wphb-tool-override-templates.php:106
+msgid "There is no template file has overwritten"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/views/pricing-table.php:39
+msgid "Select name of room"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/views/pricing-table.php:45
+msgid "Regular price"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/views/pricing-table.php:62
+#: wp-hotel-booking/includes/admin/views/pricing-table.php:190
+#: wp-hotel-booking/includes/admin/views/pricing-table.php:194
+msgid "Clone"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/views/pricing-table.php:64
+#: wp-hotel-booking/includes/admin/views/pricing-table.php:130
+#: wp-hotel-booking/includes/admin/views/pricing-table.php:198
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/admin/views/extra.php:54
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/admin/views/extra.php:79
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/admin/views/extra.php:112
+msgid "Remove"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/views/pricing-table.php:97
+msgid "Other plan"
+msgstr ""
+
+#: wp-hotel-booking/includes/admin/views/pricing-table.php:98
+#, php-format
+msgid "(%d plan)"
+msgid_plural "(%d plans)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wp-hotel-booking/includes/admin/views/pricing-table.php:162
+msgid "No addition plans"
+msgstr ""
+
+#: wp-hotel-booking/includes/booking/wphb-booking-functions.php:86
+#: wp-hotel-booking/templates/emails/booking-details.php:17
+msgid "Booking "
+msgstr ""
+
+#: wp-hotel-booking/includes/booking/wphb-booking-functions.php:92
+msgid "Invalid booking status"
+msgstr ""
+
+#: wp-hotel-booking/includes/booking/wphb-booking-functions.php:326
+#: wp-hotel-booking/includes/booking/wphb-booking-functions.php:339
+#: wp-hotel-booking/includes/booking/wphb-booking-functions.php:351
+msgid "Booking is not found."
+msgstr ""
+
+#: wp-hotel-booking/includes/booking/wphb-booking-functions.php:395
+msgid "Cancelled"
+msgstr ""
+
+#: wp-hotel-booking/includes/booking/wphb-booking-hooks.php:121
+msgid "Booking pending"
+msgstr ""
+
+#: wp-hotel-booking/includes/booking/wphb-booking-hooks.php:122
+msgid "Your booking is pending"
+msgstr ""
+
+#: wp-hotel-booking/includes/booking/wphb-booking-hooks.php:123
+msgid "Your booking is pending until the payment is completed"
+msgstr ""
+
+#: wp-hotel-booking/includes/booking/wphb-booking-hooks.php:142
+msgid "New customer booking"
+msgstr ""
+
+#: wp-hotel-booking/includes/booking/wphb-booking-hooks.php:143
+msgid "You have a new booking room"
+msgstr ""
+
+#: wp-hotel-booking/includes/booking/wphb-booking-hooks.php:222
+msgid "New Booking Payment"
+msgstr ""
+
+#: wp-hotel-booking/includes/booking/wphb-booking-hooks.php:308
+#: wp-hotel-booking/templates/emails/customer-cancelled.php:20
+msgid "Cancelled booking"
+msgstr ""
+
+#: wp-hotel-booking/includes/booking/wphb-booking-hooks.php:396
+msgctxt "Admin menu name"
+msgid "Bookings"
+msgstr ""
+
+#: wp-hotel-booking/includes/cart/class-wphb-cart.php:210
+msgid "Can not add to cart, product is not exist."
+msgstr ""
+
+#: wp-hotel-booking/includes/gateways/offline-payment/class-wphb-payment-gateway-offline-payment.php:29
+#: wp-hotel-booking/templates/emails/booking-details.php:48
+msgid "Offline Payment"
+msgstr ""
+
+#: wp-hotel-booking/includes/gateways/offline-payment/class-wphb-payment-gateway-offline-payment.php:30
+msgid "Pay on arrival"
+msgstr ""
+
+#: wp-hotel-booking/includes/gateways/offline-payment/class-wphb-payment-gateway-offline-payment.php:62
+msgid "<br />(<small>Pay on arrival</small>)"
+msgstr ""
+
+#: wp-hotel-booking/includes/gateways/offline-payment/class-wphb-payment-gateway-offline-payment.php:108
+msgid " Pay on Arrival"
+msgstr ""
+
+#: wp-hotel-booking/includes/gateways/offline-payment/views/settings.php:38
+msgid "Enable checkout booking via Offline payment"
+msgstr ""
+
+#: wp-hotel-booking/includes/gateways/offline-payment/views/settings.php:42
+msgid "Instruction"
+msgstr ""
+
+#: wp-hotel-booking/includes/gateways/offline-payment/views/settings.php:50
+msgid "Information for bank transfer via Offline payment, eg: Bank account"
+msgstr ""
+
+#: wp-hotel-booking/includes/gateways/paypal/class-wphb-payment-gateway-paypal.php:62
+msgid "Paypal"
+msgstr ""
+
+#: wp-hotel-booking/includes/gateways/paypal/class-wphb-payment-gateway-paypal.php:63
+#: wp-hotel-booking/includes/gateways/paypal/class-wphb-payment-gateway-paypal.php:113
+msgid "Pay with Paypal"
+msgstr ""
+
+#: wp-hotel-booking/includes/gateways/paypal/class-wphb-payment-gateway-paypal.php:108
+#, php-format
+msgid "<br /><small>(Paid %s%% of %s via %s)</small>"
+msgstr ""
+
+#: wp-hotel-booking/includes/gateways/paypal/class-wphb-payment-gateway-paypal.php:190
+msgid "Error: Booking ID and key were not found in \"custom\"."
+msgstr ""
+
+#: wp-hotel-booking/includes/gateways/paypal/class-wphb-payment-gateway-paypal.php:201
+#, php-format
+msgid "Error: Booking Keys do not match %s and %s."
+msgstr ""
+
+#: wp-hotel-booking/includes/gateways/paypal/class-wphb-payment-gateway-paypal.php:223
+msgid "IPN payment completed"
+msgstr ""
+
+#: wp-hotel-booking/includes/gateways/paypal/views/settings.php:39
+msgid "Paypal email"
+msgstr ""
+
+#: wp-hotel-booking/includes/gateways/paypal/views/settings.php:45
+msgid "Sandbox Mode"
+msgstr ""
+
+#: wp-hotel-booking/includes/gateways/paypal/views/settings.php:52
+msgid "Paypal sandbox email"
+msgstr ""
+
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/wp-hotel-booking-extra.php:56
+msgid "Remove package. Are you sure?"
+msgstr ""
+
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/class-wphb-extra-cart.php:199
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/classes/class-hb-extra-cart.php:180
+msgid "Cart ID is not exists."
+msgstr ""
+
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/class-wphb-extra-cart.php:360
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/classes/class-hb-extra-cart.php:322
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/templates/loop/addition-services-title.php:26
+msgid "Addition Services"
+msgstr ""
+
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/class-wphb-extra-post-type.php:48
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/class-wphb-extra-post-type.php:49
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/classes/class-hb-extra-post-type.php:35
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/classes/class-hb-extra-post-type.php:36
+msgid "Extra Room"
+msgstr ""
+
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/class-wphb-extra-post-type.php:50
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/classes/class-hb-extra-post-type.php:37
+msgctxt "wp-hotel-booking"
+msgid "Add New Extra Room"
+msgstr ""
+
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/class-wphb-extra-post-type.php:51
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/classes/class-hb-extra-post-type.php:38
+msgid "Add New Extra Room"
+msgstr ""
+
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/class-wphb-extra-post-type.php:52
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/classes/class-hb-extra-post-type.php:39
+msgid "Edit Extra Room"
+msgstr ""
+
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/class-wphb-extra-post-type.php:53
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/classes/class-hb-extra-post-type.php:40
+msgid "New Extra Room"
+msgstr ""
+
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/class-wphb-extra-post-type.php:54
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/classes/class-hb-extra-post-type.php:41
+msgid "View Extra Room"
+msgstr ""
+
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/class-wphb-extra-post-type.php:55
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/classes/class-hb-extra-post-type.php:42
+msgid "Search Extra Room"
+msgstr ""
+
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/class-wphb-extra-post-type.php:56
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/classes/class-hb-extra-post-type.php:43
+msgid "No Extra Room found"
+msgstr ""
+
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/class-wphb-extra-post-type.php:57
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/classes/class-hb-extra-post-type.php:44
+msgid "No Extra Room found in Trash"
+msgstr ""
+
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/class-wphb-extra-post-type.php:58
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/classes/class-hb-extra-post-type.php:45
+msgid "Parent Singular Extra Room:"
+msgstr ""
+
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/class-wphb-extra-post-type.php:59
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/admin/views/extra.php:30
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/classes/class-hb-extra-post-type.php:46
+msgid "Extra Options"
+msgstr ""
+
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/class-wphb-extra-post-type.php:117
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/class-wphb-extra-post-type.php:206
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/classes/class-hb-extra-post-type.php:104
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/classes/class-hb-extra-post-type.php:188
+msgid "Unit"
+msgstr ""
+
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/class-wphb-extra-post-type.php:119
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/class-wphb-extra-post-type.php:220
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/classes/class-hb-extra-post-type.php:106
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/classes/class-hb-extra-post-type.php:202
+msgid "Required"
+msgstr ""
+
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/class-wphb-extra-post-type.php:188
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/classes/class-hb-extra-post-type.php:170
+msgid "Extra Settings"
+msgstr ""
+
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/class-wphb-extra-post-type.php:200
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/classes/class-hb-extra-post-type.php:182
+msgid "Price of extra room option"
+msgstr ""
+
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/class-wphb-extra-post-type.php:207
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/classes/class-hb-extra-post-type.php:189
+msgid "Unit of extra room option"
+msgstr ""
+
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/class-wphb-extra-post-type.php:209
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/admin/views/extra.php:47
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/admin/views/extra.php:72
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/admin/views/extra.php:105
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/classes/class-hb-extra-post-type.php:191
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/templates/loop/extra-search-room.php:63
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/templates/loop/extra-single-search-room.php:59
+#: wp-hotel-booking/templates/search/select-extra.php:53
+msgid "Package"
+msgstr ""
+
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/class-wphb-extra-post-type.php:214
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/classes/class-hb-extra-post-type.php:196
+msgid "Type of extra room option"
+msgstr ""
+
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/class-wphb-extra-post-type.php:221
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/classes/class-hb-extra-post-type.php:203
+msgid "Required include for all booking"
+msgstr ""
+
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/class-wphb-extra.php:53
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/classes/class-hb-extra.php:30
+msgid "Addition Package"
+msgstr ""
+
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/admin/class-hb-admin.php:26
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/admin/class-wphb-extra-admin.php:39
+msgid "Extra Room Packages"
+msgstr ""
+
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/admin/views/extra.php:26
+msgid "Adding room's services packages with detail price for every service"
+msgstr ""
+
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/admin/views/extra.php:50
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/admin/views/extra.php:75
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/admin/views/extra.php:108
+msgid "Price Type"
+msgstr ""
+
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/admin/views/extra.php:85
+msgid "Save Extra"
+msgstr ""
+
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/admin/views/extra.php:86
+msgid "Add another item"
+msgstr ""
+
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/inc/admin/views/extra.php:99
+msgid "Enter description here"
+msgstr ""
+
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/templates/loop/extra-search-room.php:27
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/templates/loop/extra-single-search-room.php:27
+msgid "Optional Extras"
+msgstr ""
+
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/templates/loop/mini-cart-extra.php:24
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/templates/shortcodes/mini_cart_layout.php:36
+msgid "Addition Services:"
+msgstr ""
+
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/templates/shortcodes/mini_cart_layout.php:29
+#: wp-hotel-booking/templates/cart/mini_cart_layout.php:26
+#: wp-hotel-booking/templates/loop/mini-cart-loop.php:37
+#: wp-hotel-booking/templates/search/loop.php:69
+msgid "Quantity: "
+msgstr ""
+
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/templates/shortcodes/mini_cart_layout.php:60
+#: wp-hotel-booking/templates/cart/mini_cart_layout.php:31
+#: wp-hotel-booking/templates/loop/mini-cart-loop.php:44
+msgid "Price: "
+msgstr ""
+
+#: wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/templates/shortcodes/mini_cart_layout.php:70
+#: wp-hotel-booking/templates/cart/cart.php:122
+#: wp-hotel-booking/templates/cart/mini_cart.php:34
+#: wp-hotel-booking/templates/cart/mini_cart_layout.php:40
+msgid "Check Out"
+msgstr ""
+
+#: wp-hotel-booking/includes/products/class-wphb-product-room.php:194
+msgid "why i am here?"
+msgstr ""
+
+#: wp-hotel-booking/includes/widgets/class-hb-widget-best-reviews.php:25
+msgid "HB Rooms Best Reviews"
+msgstr ""
+
+#: wp-hotel-booking/includes/widgets/class-hb-widget-best-reviews.php:26
+msgid "Display rooms have best reviews"
+msgstr ""
+
+#: wp-hotel-booking/includes/widgets/class-hb-widget-best-reviews.php:65
+#: wp-hotel-booking/includes/widgets/class-hb-widget-lastest-reviews.php:65
+#: wp-hotel-booking/includes/widgets/class-hb-widget-mini-cart.php:65
+#: wp-hotel-booking/includes/widgets/class-hb-widget-room-carousel.php:69
+#: wp-hotel-booking/includes/widgets/class-hb-widget-search.php:69
+#: wp-hotel-booking/templates/checkout/thank-you.php:150
+msgid "Title:"
+msgstr ""
+
+#: wp-hotel-booking/includes/widgets/class-hb-widget-best-reviews.php:69
+#: wp-hotel-booking/includes/widgets/class-hb-widget-lastest-reviews.php:69
+#: wp-hotel-booking/includes/widgets/class-hb-widget-room-carousel.php:77
+msgid "Number of items:"
+msgstr ""
+
+#: wp-hotel-booking/includes/widgets/class-hb-widget-lastest-reviews.php:25
+msgid "HB Rooms Lastest Reviews"
+msgstr ""
+
+#: wp-hotel-booking/includes/widgets/class-hb-widget-lastest-reviews.php:26
+msgid "Display rooms have lastest reviews"
+msgstr ""
+
+#: wp-hotel-booking/includes/widgets/class-hb-widget-mini-cart.php:25
+msgid "HB Widget Mini Cart"
+msgstr ""
+
+#: wp-hotel-booking/includes/widgets/class-hb-widget-mini-cart.php:26
+msgid "Display order of customer"
+msgstr ""
+
+#: wp-hotel-booking/includes/widgets/class-hb-widget-room-carousel.php:25
+msgid "HB Rooms Carousel"
+msgstr ""
+
+#: wp-hotel-booking/includes/widgets/class-hb-widget-room-carousel.php:26
+msgid "Display rooms slider"
+msgstr ""
+
+#: wp-hotel-booking/includes/widgets/class-hb-widget-room-carousel.php:73
+msgid "Number of rooms to show:"
+msgstr ""
+
+#: wp-hotel-booking/includes/widgets/class-hb-widget-room-carousel.php:81
+msgid "Navigation:"
+msgstr ""
+
+#: wp-hotel-booking/includes/widgets/class-hb-widget-room-carousel.php:88
+msgid "Pagination:"
+msgstr ""
+
+#: wp-hotel-booking/includes/widgets/class-hb-widget-room-carousel.php:97
+msgid "Text Link"
+msgstr ""
+
+#: wp-hotel-booking/includes/widgets/class-hb-widget-search.php:24
+msgid "HB Search Rooms"
+msgstr ""
+
+#: wp-hotel-booking/includes/widgets/class-hb-widget-search.php:25
+msgid "Display the form for search rooms."
+msgstr ""
+
+#: wp-hotel-booking/includes/widgets/class-hb-widget-search.php:80
+msgid "Show title search form"
+msgstr ""
+
+#: wp-hotel-booking/includes/widgets/class-hb-widget-search.php:87
+msgid "Show label search form"
+msgstr ""
+
+#: wp-hotel-booking/templates/confirm.php:19
+msgid "Confirm"
+msgstr ""
+
+#: wp-hotel-booking/templates/confirm.php:23
+msgid "Finish"
+msgstr ""
+
+#: wp-hotel-booking/templates/pagination.php:30
+#: wp-hotel-booking/templates/search/results.php:31
+msgid "Previous"
+msgstr ""
+
+#: wp-hotel-booking/templates/pagination.php:31
+#: wp-hotel-booking/templates/search/results.php:32
+msgid "Next"
+msgstr ""
+
+#: wp-hotel-booking/templates/single-room-reviews.php:32
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wp-hotel-booking/templates/single-room-reviews.php:55
+msgid "There are no reviews yet."
+msgstr ""
+
+#: wp-hotel-booking/templates/single-room-reviews.php:66
+msgid "Add a review"
+msgstr ""
+
+#: wp-hotel-booking/templates/single-room-reviews.php:66
+msgid "Be the first to review"
+msgstr ""
+
+#: wp-hotel-booking/templates/single-room-reviews.php:67
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: wp-hotel-booking/templates/single-room-reviews.php:76
+msgid "Submit"
+msgstr ""
+
+#: wp-hotel-booking/templates/single-room-reviews.php:82
+msgid "Your Rating"
+msgstr ""
+
+#: wp-hotel-booking/templates/single-room-reviews.php:86
+msgid "Your Review"
+msgstr ""
+
+#: wp-hotel-booking/templates/single-room-reviews.php:93
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: wp-hotel-booking/templates/account/account.php:18
+#, php-format
+msgid "You must <strong><a href=\"%s\">Login<a/></strong>."
+msgstr ""
+
+#: wp-hotel-booking/templates/account/bookings.php:24
+msgid "You have no order booking system"
+msgstr ""
+
+#: wp-hotel-booking/templates/account/bookings.php:37
+msgid "Booking Date"
+msgstr ""
+
+#: wp-hotel-booking/templates/cart/cart.php:28
+msgid "Cart"
+msgstr ""
+
+#: wp-hotel-booking/templates/cart/cart.php:34
+#: wp-hotel-booking/templates/checkout/checkout.php:35
+msgid "Room type"
+msgstr ""
+
+#: wp-hotel-booking/templates/cart/cart.php:37
+#: wp-hotel-booking/templates/checkout/checkout.php:38
+msgid "Check - in"
+msgstr ""
+
+#: wp-hotel-booking/templates/cart/cart.php:38
+#: wp-hotel-booking/templates/checkout/checkout.php:39
+msgid "Check - out"
+msgstr ""
+
+#: wp-hotel-booking/templates/cart/cart.php:40
+#: wp-hotel-booking/templates/checkout/checkout.php:41
+msgid "Gross Total"
+msgstr ""
+
+#: wp-hotel-booking/templates/cart/cart.php:64
+#: wp-hotel-booking/templates/checkout/checkout.php:61
+#, php-format
+msgid "%d adult"
+msgid_plural "%d adults"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wp-hotel-booking/templates/cart/cart.php:94
+#: wp-hotel-booking/templates/checkout/checkout.php:90
+msgid "(price including tax)"
+msgstr ""
+
+#: wp-hotel-booking/templates/cart/cart.php:110
+#: wp-hotel-booking/templates/checkout/checkout.php:108
+#, php-format
+msgid "Advance Payment (%s%% of Grand Total)"
+msgstr ""
+
+#: wp-hotel-booking/templates/cart/cart.php:131
+#: wp-hotel-booking/templates/cart/mini_cart.php:42
+#: wp-hotel-booking/templates/cart/mini_cart_layout.php:46
+msgid "Your cart is empty!"
+msgstr ""
+
+#: wp-hotel-booking/templates/checkout/checkout.php:31
+msgid "Booking Rooms"
+msgstr ""
+
+#: wp-hotel-booking/templates/checkout/checkout.php:117
+msgid "I want to pay all"
+msgstr ""
+
+#: wp-hotel-booking/templates/checkout/checkout.php:127
+#, php-format
+msgid ""
+"You have to <strong><a href=\"%s\">login</a></strong> or <strong><a href=\"%s"
+"\">register</a></strong> to checkout."
+msgstr ""
+
+#: wp-hotel-booking/templates/checkout/checkout.php:144
+msgid "I agree with "
+msgstr ""
+
+#: wp-hotel-booking/templates/checkout/customer-existing.php:25
+msgid "-Or-"
+msgstr ""
+
+#: wp-hotel-booking/templates/checkout/customer-existing.php:27
+msgid "Existing customer?"
+msgstr ""
+
+#: wp-hotel-booking/templates/checkout/customer-existing.php:34
+msgid "Your email here"
+msgstr ""
+
+#: wp-hotel-booking/templates/checkout/customer-existing.php:38
+msgid "Apply"
+msgstr ""
+
+#: wp-hotel-booking/templates/checkout/customer-new.php:24
+msgid "New Customer"
+msgstr ""
+
+#: wp-hotel-booking/templates/checkout/customer-new.php:27
+msgid "Title"
+msgstr ""
+
+#: wp-hotel-booking/templates/checkout/customer-new.php:82
+msgid "Postal Code"
+msgstr ""
+
+#: wp-hotel-booking/templates/checkout/customer-new.php:87
+msgid "Postal code"
+msgstr ""
+
+#: wp-hotel-booking/templates/checkout/order-pay.php:25
+#, php-format
+msgid "Booking ID: %s"
+msgstr ""
+
+#: wp-hotel-booking/templates/checkout/order-pay.php:27
+msgid "Payment status: "
+msgstr ""
+
+#: wp-hotel-booking/templates/checkout/order-pay.php:31
+msgid "Booking Date: "
+msgstr ""
+
+#: wp-hotel-booking/templates/checkout/order-pay.php:35
+msgid "Payment Method: "
+msgstr ""
+
+#: wp-hotel-booking/templates/checkout/order-pay.php:39
+msgid "Total: "
+msgstr ""
+
+#: wp-hotel-booking/templates/checkout/order-pay.php:43
+msgid "Advance Payment: "
+msgstr ""
+
+#: wp-hotel-booking/templates/checkout/order-pay.php:51
+#, php-format
+msgid "%s was pay completed"
+msgstr ""
+
+#: wp-hotel-booking/templates/checkout/thank-you.php:32
+msgid ""
+"Thank you! Your booking has been placed. We will contact you to confirm "
+"about the booking soon."
+msgstr ""
+
+#: wp-hotel-booking/templates/checkout/thank-you.php:38
+#, php-format
+msgid "Booking %s"
+msgstr ""
+
+#: wp-hotel-booking/templates/checkout/thank-you.php:40
+#, php-format
+msgid "Date %s"
+msgstr ""
+
+#: wp-hotel-booking/templates/checkout/thank-you.php:53
+msgid "Check in - Checkout"
+msgstr ""
+
+#: wp-hotel-booking/templates/checkout/thank-you.php:155
+msgid "First Name:"
+msgstr ""
+
+#: wp-hotel-booking/templates/checkout/thank-you.php:160
+msgid "Last Name:"
+msgstr ""
+
+#: wp-hotel-booking/templates/checkout/thank-you.php:165
+#: wp-hotel-booking/templates/emails/customer-details.php:33
+msgid "Address:"
+msgstr ""
+
+#: wp-hotel-booking/templates/checkout/thank-you.php:170
+msgid "City:"
+msgstr ""
+
+#: wp-hotel-booking/templates/checkout/thank-you.php:175
+msgid "State:"
+msgstr ""
+
+#: wp-hotel-booking/templates/checkout/thank-you.php:180
+#: wp-hotel-booking/templates/emails/customer-details.php:42
+msgid "Postal Code:"
+msgstr ""
+
+#: wp-hotel-booking/templates/checkout/thank-you.php:185
+msgid "Country:"
+msgstr ""
+
+#: wp-hotel-booking/templates/checkout/thank-you.php:190
+#: wp-hotel-booking/templates/emails/customer-details.php:26
+msgid "Phone:"
+msgstr ""
+
+#: wp-hotel-booking/templates/checkout/thank-you.php:195
+msgid "Email:"
+msgstr ""
+
+#: wp-hotel-booking/templates/checkout/thank-you.php:200
+msgid "Fax:"
+msgstr ""
+
+#: wp-hotel-booking/templates/checkout/thank-you.php:208
+msgid "Booking Notes:"
+msgstr ""
+
+#: wp-hotel-booking/templates/checkout/thank-you.php:217
+msgid "Payment Instruction"
+msgstr ""
+
+#: wp-hotel-booking/templates/checkout/thank-you.php:225
+#: wp-hotel-booking/templates/checkout/thank-you.php:228
+msgid "Booking invalid"
+msgstr ""
+
+#: wp-hotel-booking/templates/emails/booking-details.php:24
+msgid "#"
+msgstr ""
+
+#: wp-hotel-booking/templates/emails/booking-details.php:43
+msgid "Subtotal"
+msgstr ""
+
+#: wp-hotel-booking/templates/emails/booking-details.php:47
+msgid "Payment method"
+msgstr ""
+
+#: wp-hotel-booking/templates/emails/customer-booking.php:20
+msgid "Thanks for your booking"
+msgstr ""
+
+#: wp-hotel-booking/templates/emails/customer-booking.php:21
+msgid ""
+"Thank you for making reservation at our hotel. We will try our best to bring "
+"the best service. Good luck and see you soon!"
+msgstr ""
+
+#: wp-hotel-booking/templates/emails/customer-details.php:18
+msgid "Customer details"
+msgstr ""
+
+#: wp-hotel-booking/templates/emails/customer-details.php:20
+msgid "Customer Name:"
+msgstr ""
+
+#: wp-hotel-booking/templates/emails/customer-details.php:23
+msgid "Email address:"
+msgstr ""
+
+#: wp-hotel-booking/templates/emails/customer-details.php:31
+msgid "Billing address"
+msgstr ""
+
+#: wp-hotel-booking/templates/emails/customer-details.php:46
+msgid "Additional Information:"
+msgstr ""
+
+#: wp-hotel-booking/templates/loop/pricing_plan.php:25
+msgid "Regular plan"
+msgstr ""
+
+#: wp-hotel-booking/templates/loop/pricing_plan.php:55
+msgid "to"
+msgstr ""
+
+#: wp-hotel-booking/templates/search/booking-room-details.php:45
+msgid "* vat is included"
+msgstr ""
+
+#: wp-hotel-booking/templates/search/booking-room-details.php:47
+msgid "* vat is not included yet"
+msgstr ""
+
+#: wp-hotel-booking/templates/search/loop.php:51
+msgid "Capacity:"
+msgstr ""
+
+#: wp-hotel-booking/templates/search/loop.php:55
+msgid "Max Children:"
+msgstr ""
+
+#: wp-hotel-booking/templates/search/loop.php:59
+msgid "Price:"
+msgstr ""
+
+#: wp-hotel-booking/templates/search/loop.php:63
+msgid "(View price breakdown)"
+msgstr ""
+
+#: wp-hotel-booking/templates/search/loop.php:90
+msgid "Select this room"
+msgstr ""
+
+#: wp-hotel-booking/templates/search/results.php:23
+msgid "Search results"
+msgstr ""
+
+#: wp-hotel-booking/templates/search/results.php:42
+msgid "No room found."
+msgstr ""
+
+#: wp-hotel-booking/templates/search/results.php:44
+msgid "Search again!"
+msgstr ""
+
+#: wp-hotel-booking/templates/search/search-form.php:33
+msgid "Search your room"
+msgstr ""
+
+#: wp-hotel-booking/templates/search/search-form.php:40
+#: wp-hotel-booking/templates/search/search-form.php:44
+msgid "Arrival Date"
+msgstr ""
+
+#: wp-hotel-booking/templates/search/search-form.php:49
+#: wp-hotel-booking/templates/search/search-form.php:53
+msgid "Departure Date"
+msgstr ""
+
+#: wp-hotel-booking/templates/search/search-form.php:58
+#: wp-hotel-booking/templates/search/search-form.php:66
+msgid "Adults"
+msgstr ""
+
+#: wp-hotel-booking/templates/search/search-form.php:77
+#: wp-hotel-booking/templates/search/search-form.php:85
+msgid "Children"
+msgstr ""
+
+#: wp-hotel-booking/templates/search/search-form.php:100
+msgid "Check Availability"
+msgstr ""
+
+#: wp-hotel-booking/templates/search/select-extra.php:66
+msgid "Back to search"
+msgstr ""
+
+#: wp-hotel-booking/templates/search/select-extra.php:68
+msgid "Next step"
+msgstr ""
+
+#: wp-hotel-booking/templates/search/select-extra.php:70
+msgid "There is no extra option of this room"
+msgstr ""
+
+#: wp-hotel-booking/templates/single-room/related-room.php:27
+msgid "Other Rooms"
+msgstr ""
+
+#: wp-hotel-booking/templates/single-room/review.php:38
+msgid "Your comment is awaiting approval"
+msgstr ""
